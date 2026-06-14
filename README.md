@@ -1,4 +1,4 @@
-## 🚀 Instrucciones de Ejecución
+## Instrucciones de Ejecución
 
 Sigue estos pasos dentro de Visual Studio para correr la aplicación de forma correcta:
 
